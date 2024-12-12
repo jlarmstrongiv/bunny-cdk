@@ -16,7 +16,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
 
 ## Documentation
 
-Please read the [docs](https://bunny-launcher.net/bunny-cdk/quickstart/) for usage and examples.`
+Please read the [docs](https://bunny-launcher.net/bunny-cdk/quickstart/) for usage and examples.`,
   },
 
   // deps: [],                /* Runtime dependencies of this module. */
