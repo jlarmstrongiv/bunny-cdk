@@ -132,7 +132,8 @@
         "packageId": "BunnyLauncher.BunnyCdk"
       },
       "go": {
-        "moduleName": "github.com/jlarmstrongiv/bunnycdkgo"
+        "moduleName": "github.com/jlarmstrongiv/bunnycdkgo",
+        "packageName": "bunnycdkgo"
       }
     },
     "tsc": {

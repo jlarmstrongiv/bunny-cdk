@@ -37,6 +37,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   },
   publishToGo: {
     moduleName: 'github.com/jlarmstrongiv/bunnycdkgo',
+    packageName: 'bunnycdkgo',
   },
 });
 project.synth();
