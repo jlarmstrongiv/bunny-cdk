@@ -11,6 +11,13 @@ const project = new awscdk.AwsCdkConstructLibrary({
   repositoryUrl: 'https://github.com/jlarmstrongiv/bunny-cdk.git',
   gitignore: ['/.env', '.DS_Store', '.AppleDouble', '.LSOverride'],
   license: 'AGPL-3.0-or-later',
+  readme: {
+    contents: `# bunny-sdk
+
+## Documentation
+
+Please read the [docs](https://bunny-launcher.net/bunny-cdk/quickstart/) for usage and examples.`
+  },
 
   // deps: [],                /* Runtime dependencies of this module. */
   // description: undefined,  /* The description is just a string that helps people understand the purpose of the package. */
