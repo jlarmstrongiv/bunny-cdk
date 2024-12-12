@@ -2,7 +2,7 @@
   "name": "bunny-cdk",
   "repository": {
     "type": "git",
-    "url": "https://github.com/20903247+jlarmstrongiv/bunny-cdk.git"
+    "url": "https://github.com/jlarmstrongiv/bunny-cdk.git"
   },
   "scripts": {
     "build": "npx projen build",
