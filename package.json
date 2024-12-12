@@ -69,6 +69,7 @@
   ],
   "main": "lib/index.js",
   "license": "AGPL-3.0-or-later",
+  "homepage": "https://bunny-launcher.net/bunny-cdk/quickstart/",
   "publishConfig": {
     "access": "public"
   },

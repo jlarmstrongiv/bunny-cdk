@@ -9,6 +9,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   name: 'bunny-cdk',
   projenrcTs: true,
   repositoryUrl: 'https://github.com/jlarmstrongiv/bunny-cdk.git',
+  homepage: 'https://bunny-launcher.net/bunny-cdk/quickstart/',
   gitignore: ['/.env', '.DS_Store', '.AppleDouble', '.LSOverride'],
   license: 'AGPL-3.0-or-later',
 
