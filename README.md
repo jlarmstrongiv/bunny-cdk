@@ -1,4 +1,4 @@
-# bunny-sdk
+# bunny-cdk
 
 ## Documentation
 
