@@ -17,7 +17,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   // devDeps: [],             /* Build dependencies for this module. */
   // packageName: undefined,  /* The "name" in package.json. */
 
-  publishDryRun: true,
+  // publishDryRun: true,
   packageName: 'bunny-cdk',
 
   publishToNuget: {
